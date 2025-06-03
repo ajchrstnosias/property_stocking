@@ -15,9 +15,9 @@ Make sure you have these installed:
 
 1.  Open your terminal or command prompt.
 2.  Go to the folder where you want to put the project.
-3.  Run this command to copy the project (replace `<your-repository-url>` with the actual link to the project):
+3.  Run this command to copy the project:
     ```bash
-    git clone <your-repository-url> property_stocking
+    git clone https://github.com/ajchrstnosias/property_stocking.git
     ```
 4.  Go into the project folder:
     ```bash
